@@ -1,7 +1,6 @@
 ﻿namespace VKatana.Console
 {
     using System;
-    using Microsoft.Owin;
     using Microsoft.Owin.Hosting;
     using Owin;
 
