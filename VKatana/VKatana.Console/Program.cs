@@ -10,7 +10,7 @@
         {
             using (WebApp.Start<Program>("http://localhost:8080"))
             {
-                Console.WriteLine("Server started");
+                Console.WriteLine("Server started!");
                 Console.WriteLine("Press any key to stop the server...");
                 Console.ReadKey();
                 Console.WriteLine("Server stopped!");
